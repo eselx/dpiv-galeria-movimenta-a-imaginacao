@@ -52,7 +52,7 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
+![](attachments/RenderFrontalFinal1.png)
 ![](attachments/placeholder.png)
 
 ---
