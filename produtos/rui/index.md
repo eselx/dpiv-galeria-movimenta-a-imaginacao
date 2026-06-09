@@ -53,10 +53,12 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/RenderFrontalFinal1.png)
+![](attachments/RenderFrontalFinal.png)
 ![](attachments/renderside.png)
 ![](attachments/renderbrincarcriança.png)
 ![](attachments/rendertrás.png)
+![](attachments/placeholder.png)
+>>>>>>> parent of 1013f80 (Edição 2)
 ![](attachments/placeholder.png)
 
 ---
