@@ -25,7 +25,7 @@ group_number: ""
 | Número  | Nome           |
 | ------- | -------------- |
 | 2024338 | Marisa Filipe  |
-| 2024    | Maria Carrilho |
+| 2024311 | Maria Carrilho |
 | 2024295 | Rafael Marques |
 | 2023223 | Rita Bailão    |
 
@@ -56,12 +56,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/marisa/">
     <img src="produtos/marisa/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Harmonia em Movimento</h3>
     <p>Marisa Filipe</p>
   </a>
   <a class="gallery-card" href="produtos/rafael/">
     <img src="produtos/rafael/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Avião</h3>
     <p>Rafael Marques</p>
   </a>
   <a class="gallery-card" href="produtos/rui/">
@@ -71,7 +71,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
   <a class="gallery-card" href="produtos/maria/">
     <img src="produtos/maria/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Torre Labirinto</h3>
     <p>Maria Carrilho</p>
   </a>
 
