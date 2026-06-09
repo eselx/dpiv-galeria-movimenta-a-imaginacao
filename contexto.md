@@ -22,7 +22,9 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ### Resumo (PT)
 
-Coloque aqui o resumo do projeto em português (máximo 500 palavras).
+O projeto Nestor consiste no desenho de brinquedos projetados para serem cortados numa CNC em fábricas de mobiliário. Os objetos seriam cortados a partir de restos do corte de peças de mobília com o objetivo de reduzir o desperdício de madeira criado por esta indústria. 
+
+Como resposta ao enunciado foram criados quatro brinquedos distintos: um jogo de equilíbrio, uma torre inspirada num percurso de berlindes, um avião de brincar e uma casa de bonecas baseada num moinho de água. Os objetos foram concebidos para públicos alvo de idades diferentes, mas mantém as cores e os materiais como pontos em comum: o Valchromat de cor vermelha e as madeiras de faia e vidoeiro. 
 
 ### Abstract (EN)
 
@@ -43,4 +45,4 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/placeholder.png)
+![](attachments/NESTORPDMRRLAVTJ2.png)
