@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Avião
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,7 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Avião de madeira  para dar asas à imaginação dos mais pequenos.
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
@@ -31,9 +31,9 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 Ideia central do produto. O que é, para quem, porquê.
 
-![](attachments/placeholder.png)
 
-## Enquadramento
+
+## Enquadramento![](attachments/prancharesumopng.png)
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
 
@@ -51,9 +51,9 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/avião_vista_2.png)
+![](attachments/avião_vista_3.png)
+![]()
 
 ---
 
