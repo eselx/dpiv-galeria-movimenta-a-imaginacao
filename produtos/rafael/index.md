@@ -59,6 +59,4 @@ Imagens-chave que sintetizam o produto final.
 
 ## Processo
 
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
-
 [Ver processo completo →](processo.md)

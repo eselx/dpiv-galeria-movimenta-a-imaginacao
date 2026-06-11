@@ -1,5 +1,5 @@
 ---
-title: Nome do Produto
+title: "Moinho de água: Casa de bonecas"
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -22,8 +22,7 @@ student_number: "2023223"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-> Casa de bonecas inspirada num moinho de água para quem adora brincar ao faz de conta
+>  Casa de bonecas inspirada num moinho de água para quem adora brincar ao faz de conta
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
@@ -64,7 +63,5 @@ Imagens-chave que sintetizam o produto final.
 ---
 
 ## Processo
-
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
 
 [Ver processo completo →](processo.md)
