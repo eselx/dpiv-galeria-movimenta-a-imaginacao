@@ -20,8 +20,8 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/IMG_20260612_110058_861.jpg)
+![](attachments/IMG_20260612_110111_289.jpg)
 
 ## 2. Processo de Prototipagem
 
@@ -40,7 +40,7 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/3R9nplS
 
 ## 5. Outros Modelos
 
@@ -54,8 +54,10 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![](attachments/avião%20nestor%20montagem%20peças.png)
 
+![](attachments/ublvf.jpg)
+![](attachments/hjbkuccxd.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -64,9 +66,9 @@ exploração de variantes.
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
+Inventário de precedentes, brinquedos análogos, referências históricas. ![](attachments/il_800x800.6115257315_5m9x%201.jpg)![](attachments/411c0e4d93a4ee99e6b26bc804f1d942%202.jpg)
+![](attachments/a685b5c3a1106a8f85bf0e8a8291f40c.jpg)
+![](attachments/2298c1cb73b22007cfce9b37df30b579%202.jpg)
 
 ## 9. Outros Elementos
 

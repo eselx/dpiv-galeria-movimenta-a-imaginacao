@@ -41,13 +41,12 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: https://a360.co/3R9nplS
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
-
+Faixa etária dos 4 aos 7 anos, montagem por encaixes de pressão.
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
