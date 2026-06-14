@@ -40,7 +40,7 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/4dMnO5w
 
 ## 5. Outros Modelos
 
@@ -54,8 +54,8 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
-
+![](attachments/PranchaResumo_TorreLabirinto.png)
+Prancha-resumo final.
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -66,7 +66,7 @@ exploração de variantes.
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](attachments/TorreL_inspiracao.png)
 
 ## 9. Outros Elementos
 
