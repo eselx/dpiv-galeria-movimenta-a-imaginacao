@@ -27,28 +27,16 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 Maquinação CNC, montagem, acabamentos pontuais. 
 
-![](attachments/placeholder.png)
 
+![](attachments/Screenshot_20260615-141512.png)
 
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 3. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/3R9nplS
 
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 4. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
@@ -58,18 +46,17 @@ exploração de variantes.
 
 ![](attachments/ublvf.jpg)
 ![](attachments/hjbkuccxd.jpg)
-## 7. Pesquisa
+## 5. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
 
-### 7.2. Objetos de referencia
+![](attachments/fhhebbwf%201.png)
+### 5.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas. ![](attachments/il_800x800.6115257315_5m9x%201.jpg)![](attachments/411c0e4d93a4ee99e6b26bc804f1d942%202.jpg)
 ![](attachments/a685b5c3a1106a8f85bf0e8a8291f40c.jpg)
 ![](attachments/2298c1cb73b22007cfce9b37df30b579%202.jpg)
 
-## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+

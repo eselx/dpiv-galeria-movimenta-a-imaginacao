@@ -1,17 +1,17 @@
 ---
-title: "Nome do Produto"
+title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Avião
+hero_subtitle: Rafael Marques · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Rafael Ferreira Marques
+student_number: "2024295"
 ---
 
 # Avião
@@ -24,14 +24,12 @@ student_number: ""
 
 > Avião de madeira  para dar asas à imaginação dos mais pequenos.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
 Ideia central do produto. O que é, para quem, porquê.
-
-
+Com base na proposta de projeto foi pensado a partir do moodboard de grupo, foram escolhidos objetos dentro da mesma área como referência. O desenho surge da combinação do objeto da vida real (avião de passageiros) e da geometrização das formas presentes do moodboard.
+Pensado para crianças em idade pré-escolar.
 
 ## Enquadramento![](attachments/prancharesumopng.png)
 
@@ -39,14 +37,18 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Materiais: Valchromat (vermelho), Bordo, Faia, Vidoeiro
+Fabricado em máquina de corte CNC
+Software paramétrico utilizado: Fusion 360 
+
 
 - Modelo 3D: https://a360.co/3R9nplS
 - Ficheiros: `attachments/`
+![](attachments/Untitled_page-0001(1).jpg)
 
 ## Função
 
-Faixa etária dos 4 aos 7 anos, montagem por encaixes de pressão.
+Faixa etária dos 4 aos 6 anos, montagem por encaixes de pressão.
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
