@@ -36,7 +36,7 @@ Ideia central do produto. O que é, para quem, porquê.
 ![](attachments/pranchaResumo2.png)
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+A casa de bonecas foi concebida utilizando os mesmos materiais que os objetos desenhados pelo resto do grupo. Desta forma, o moinho de água tem também as mesmas cores que as restantes peças. A coerência entre brinquedos provém destes dois fatores. Os objetos 1 e 2 foram a base para o design deste brinquedo, combinando a face frontal do objeto 1 e a forma do objeto 2 como um anexo lateral.
 
 ## Tecnologia
 

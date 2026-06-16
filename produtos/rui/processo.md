@@ -100,9 +100,7 @@ https://www.geograph.org.uk/photo/520914
 
 ## 5. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
-
-Em conversa com Laura Grosso, estudante de terceiro ano do curso de educação básica, foi discutido que 
+Em conversa com Laura Grosso, estudante de terceiro ano do curso de educação básica, foi discutido que são as próprias crianças que fazem a brincadeira. "Não precisam de muito," disse a Laura. Ela também referiu que crianças gostam de peças móveis ou peças que rodam. Esta conversa contribuiu para a decisão de desenhar um moinho de água.
 
 ### Ideias anteriores
 

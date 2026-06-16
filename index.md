@@ -3,7 +3,7 @@ title: "Nestor: Movimenta a Imaginação"
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/montagemtransparentfile.png
 hero_title: "Nestor: Movimenta a Imaginação"
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
@@ -65,7 +65,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Rafael Marques</p>
   </a>
   <a class="gallery-card" href="produtos/rui/">
-    <img src="produtos/rui/attachments/hero.jpg" alt="" />
+    <img src="produtos/rui/attachments/RenderFrontalFinal.png" alt="" />
     <h3>Moinho de Água: Casa de Bonecas</h3>
     <p>Rita Bailão</p>
   </a>

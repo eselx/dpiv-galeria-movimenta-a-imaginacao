@@ -40,8 +40,13 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ![Objeto 1](attachments/placeholder.png)
 
+![](attachments/2.jpg)
+
+![](attachments/7.png)
+
 - **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+- **Objeto 1** — Loch Tummel Hotel, Tummel Bridge, Escócia./Desconhecido/Um moinho de água real com uma face frontal apelativa
+-  **Objeto 2** — VectorStock/Alexander Pokusay/Edifício mais estreito com uma janela pequena. Os objetos 1 e 2 foram combinados para o desenho da casa de bonecas.
 
 ### 2.2. Moodboard
 
