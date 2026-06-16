@@ -3,7 +3,7 @@ title: "Moinho de água: Casa de bonecas"
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/montagem.png
 hero_title: "Moinho de água: Casa de bonecas"
 hero_subtitle: Rita Bailão· 2025-26
 hero_height: 80vh
@@ -21,6 +21,7 @@ student_number: "2023223"
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
+![](attachments/montagem.png)
 
 >  Casa de bonecas inspirada num moinho de água para quem adora brincar ao faz de conta
 
@@ -41,24 +42,35 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+Em concordância com os restantes projetos do grupo foram selecionados três tipos de madeira: faia e vidoeiro, que seriam utilizados de acordo com a sua disponibilidade no local de produção. No entanto faia foi a madeira de referência escolhida para a elaboração deste objeto por ser comum em mobiliário de produção em massa. A medida de referência para a espessura da madeira foi menor espessura de madeira de faia encontrada online, 23 mm.
+
+Todas estas espécies de madeira são seguras para brinquedos. A madeira de faia é fácil de limpar e não se quebra facilmente. Segundo woodlandtrust.org esta madeira muda de cor com o tempo, mas não quebra em lascas que possam magoar uma criança que brinque ccom um brinquedo feito deste material.
+
+Adicionalmente, também de acordo com o coletivo de trabalho, foi utilizado Valchromat, MDF denso e seguro para mobiliário e brinquedos, no tom RED SC com 19 mm de espessura.
+
+Todas as peças da casa de bonecas seriam cortadas numa CNC a partir de restos de madeira da indústria do mobiliário de acordo com o enunciado. Seria utilizada uma fresa de 6mm. A projeção e o modelo 3D deste brinquedo foram realizadas no software Autodesk Fusion 360.
+
+- Modelo 3D: https://a360.co/4372JOg
 - Ficheiros: `attachments/`
 
 ## Função
 
 Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
+O brinquedo Moinho de água: Casa de bonecas tem como público alvo crianças dos 5 aos 9 anos. As possibilidades de brincadeira estão apenas limitadas pela imaginação da criança que utiliza este objeto. Brincar ás casinhas, brincar fingindo que as bonecas são moleiros de outros tempos, girar a roda do moinho... tudo depende da imaginação de quem brinca. Segundo uma colega de educação que fez o seu estágio com crianças, "elas brincam com quase tudo". Segundo a mesma colega partes móveis e elementos que rodam são particularmente apelativos. 
+
+A montagem da casa de bonecas seria realizada em casa por um adulto. As várias peças são demasiado grandes e o objeto demasiado complexo para ser montado por uma criança desta idade sem supervisão. Este brinquedo está de acordo com a Diretiva 2009/48/CE nos artigos relativamente aos materiais utilizados, não-tóxicos e que não se desfazem ou se separam em farpas afiadas, e no artigo relativo à limpeza. Os chão de ambos os pisos da casa está colocado em formato de gaveta para ser fácil de remover e limpar.
+
+
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
 ![](attachments/RenderFrontalFinal.png)
 ![](attachments/renderside.png)
 ![](attachments/renderbrincarcriança.png)
 ![](attachments/rendertrás.png)
-![](attachments/placeholder.png)
->>>>>>> parent of 1013f80 (Edição 2)
-![](attachments/placeholder.png)
+
+
 
 ---
 
