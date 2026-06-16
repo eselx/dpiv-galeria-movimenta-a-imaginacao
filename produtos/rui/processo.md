@@ -102,4 +102,34 @@ https://www.geograph.org.uk/photo/520914
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
+Em conversa com Laura Grosso, estudante de terceiro ano do curso de educação básica, foi discutido que 
 
+### Ideias anteriores
+
+Conjunto de chá e cozinha com partes desmontáveis para maior versatilidade de objetos (chávenas com a asa removível transformam-se em copos, panela sem asa torna-se uma taça, etc)
+
+![](attachments/novidadesideia1.png)
+![629](attachments/esboçoproduto_9.jpg)
+
+![](attachments/esboçoproduto_14.jpg)
+
+![](attachments/esboçoproduto_11.jpg)
+
+![](attachments/esboçoproduto_1.jpg)
+
+![](attachments/esboçoproduto_15.jpg)
+
+
+Jogo de encaixe
+
+![](attachments/prancharesumo1.jpg)
+
+![](attachments/ideia2novidades.png)
+
+![](attachments/esboçoproduto_3.jpg)
+
+![](attachments/esboçoproduto_4.jpg)
+
+![](attachments/esboçoproduto_5.jpg)
+
+![](attachments/esboçoproduto_6.jpg)
