@@ -22,7 +22,7 @@ student_number: "2024295"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Avião de madeira  para dar asas à imaginação dos mais pequenos.
+> Avião de madeira para dar asas à imaginação dos mais pequenos.
 
 
 ## Conceito
@@ -31,7 +31,8 @@ Ideia central do produto. O que é, para quem, porquê.
 Com base na proposta de projeto foi pensado a partir do moodboard de grupo, foram escolhidos objetos dentro da mesma área como referência. O desenho surge da combinação do objeto da vida real (avião de passageiros) e da geometrização das formas presentes do moodboard.
 Pensado para crianças em idade pré-escolar.
 
-## Enquadramento![](attachments/prancharesumopng.png)
+## Enquadramento
+![](attachments/prancharesumopng.png)
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
 

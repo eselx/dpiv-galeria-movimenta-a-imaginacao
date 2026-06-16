@@ -22,7 +22,7 @@ student_number: "2024311"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Um puzzle espera por ti lá dentro! Navega o disco entre as camadas para chegares ao fim!
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
@@ -31,15 +31,25 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 Ideia central do produto. O que é, para quem, porquê.
 
+A torre labirinto foi criada com o propósito de ser um puzzle estratégico para os mais pequenos através da interação da criança ao girar as camadas para navegar o disco até ao final. Este brinquedo oferece à criança habilidades de resolução de problemas e pensamento critico perante desafios que destinam-se ao impedimento do sentido da visão.
+
+Pensado para idades entre os 5 e 9 anos.
+
 ![](attachments/PranchaResumo_TorreLabirinto.png)
 
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
 
+O conceito da marca Nestor, desenvolvida paralelemente no módulo de Design de Comunicação e Interação, apoia-se nas 'ideias' da imaginação, movimento e formas simples de fácil reconhecimento. Então, com este brinquedo exploro o 'conceito' do movimento como brincadeira traduzida para um jogo estratégico.
+
 ## Tecnologia
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+
+- Materiais: Valchromat (vermelho), Bordo, Faia, Vidoeiro
+- Fabricado em máquina de corte CNC
+- Software paramétrico utilizado: Fusion 360 
 
 - Modelo 3D: https://a360.co/4dMnO5w 
 - Ficheiros: `attachments/`
@@ -57,6 +67,7 @@ Para começar, insere-se o disco na primeira camada e para o mover entre o labir
 
 Imagens-chave que sintetizam o produto final.
 
+![](attachments/TorreL_hero.jpg)
 ![](attachments/TorreL_sem_topo.png)
 ![](attachments/TorreL_ventoinha.png)![](attachments/TorreL_camadas.png)
 
