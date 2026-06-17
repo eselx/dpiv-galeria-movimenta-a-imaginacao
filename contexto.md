@@ -14,11 +14,8 @@ published: true
 
 # Contexto de Design
 
-Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
 
 ## 1. Resumo / Abstract
-
-> Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
 
 ### Resumo (PT)
 

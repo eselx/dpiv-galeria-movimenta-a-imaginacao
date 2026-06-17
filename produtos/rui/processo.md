@@ -14,8 +14,6 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
@@ -24,18 +22,12 @@ https://a360.co/4nqYoPa
 
 ## 2. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
 Teste de escala
 Referência: Esquadro 300 mm. Altura média de uma criança de seis anos - 105-125 cm de acordo com Afonso, A. (2013). _DIREÇÃO-GERAL DA SAÚDE Programa Nacional de Saúde Infantil e Juvenil PALAVRAS-CHAVE: Saúde infantil; Saúde juvenil; PNSIJ; Vigilância Profissionais de Saúde_. https://www.spp.pt/UserFiles/file/EVIDENCIAS%20EM%20PEDIATRIA/DGS_010_2013-05.2013.pdf (interpretação dos gráficos)
 
 ![581](attachments/esboçoproduto_12.jpg)
 
 ## 3. Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
 
 Ficheiro Vetor
 ![613](attachments/casabonecasfachadaaffinity.png)

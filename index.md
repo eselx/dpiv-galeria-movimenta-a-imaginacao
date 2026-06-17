@@ -18,6 +18,7 @@ group_number: ""
 # Nestor: Movimenta a Imaginação
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Movimenta a imaginação: para todas as crianças que gostam de brincar (substituir por uma melhor)
 > 
 
 ## Elementos do Grupo
@@ -27,15 +28,17 @@ group_number: ""
 | 2024338 | Marisa Filipe  |
 | 2024311 | Maria Carrilho |
 | 2024295 | Rafael Marques |
-| 2023223 | Rita Bailão    |
+| 2023223 | Rui Bailão     |
 
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+![](attachments/montagemtransparentfile.png)
+
+> Os quatro brinquedos desenhados pelo grupo têm como ponto comum as cores e os materiais. Apesar de terem sido desenhados para vários tipos de brincadeiras diferentes, a coerência visual proveniente deste aspeto identifica-os como objetos da mesma marca ou coleção
+
+
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
