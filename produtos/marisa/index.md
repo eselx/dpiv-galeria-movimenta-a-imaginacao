@@ -84,9 +84,10 @@ Para montar este produto é necessário ler um pequeno folheto de instruções c
 ###### Conformidade com a Diretiva 2009/48/CE:
 
 O brinquedo cumpre algumas das seguintes regras:
-- É concebido e fabricado de modo a não apresentar qualquer risco mínimo inerente à sua utilização normal
-- Não tem a presença de substâncias cancerígenas, mutagénicas ou tóxicas.
-- Obedece a regras de segurança específicas como a disponibilização de informações claras e acessíveis aos consumidores sobre os riscos residuais e as instruções de uso.
+ 
+É concebido e fabricado de modo a não apresentar qualquer risco mínimo inerente à sua utilização normal;
+Não tem a presença de substâncias cancerígenas, mutagénicas ou tóxicas;
+Obedece a regras de segurança específicas como a disponibilização de informações claras e acessíveis aos consumidores sobre os riscos residuais e as instruções de uso;
 Tenta garantir um nível elevado de segurança sem colocar risco a saúde ou segurança das crianças, evitando vértices, partes afiadas ou números extremos de dimensões da partes do objeto, para evitar ser ingerido ou pesado.
 
 

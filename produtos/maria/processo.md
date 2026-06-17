@@ -27,8 +27,6 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 ![](attachments/Mockup_4.png)
 >Mochups do produto feito no Photoshop 2025
 
-
-
 ## 2. Processo de Prototipagem
 
 Maquinação CNC, montagem, acabamentos pontuais. 
@@ -65,18 +63,23 @@ Esta maquete permitiu-me ver se a brincadeira era viável e apesar do uso de car
 ![](attachments/Maquete_group.png)
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
->versões antigas da torre (no fusion) 
->esboços das medidas no diário gráfico
+Desenhos manuais, pranchas A3 de síntese, exploração de variantes.
 
 ![](attachments/PranchaResumo_TorreLabirinto.png)
 >Prancha-resumo final
 
+
+
+>Esboço no Fusion de uma versão antiga
+>Esta versão usava muitas peças e com o auxilio do professor, foi possível reduzi-las.
+
+![](attachments/Desenho_DG%201.jpeg)
+>Desenho das peças para uma versão antiga do brinquedo
+
 ![](attachments/PranchaResumo_Antiga.png)
 >Primeira prancha-resumo, de acordo com outro conceito
+
+
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)

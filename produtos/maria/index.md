@@ -27,7 +27,7 @@ A torre labirinto foi criada com o propósito de ser um puzzle estratégico para
 Pensado para idades entre os 5 e 9 anos.
 
 ![](attachments/PranchaResumo_TorreLabirinto.png)
-
+![](attachments/Mockup_3.png)
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
@@ -57,10 +57,12 @@ Para começar, insere-se o disco na primeira camada e para o mover entre o labir
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+##### Mockups:
 
-###### Mockups:
-
-###### Renders finais:
+![](attachments/Mockup_2.png)
+![](attachments/Mockup_3.png)
+![](attachments/Mockup_4.png)
+##### Renders finais:
 
 ![](attachments/TorreL_hero.jpg)
 ![](attachments/TorreL_sem_topo.png)
