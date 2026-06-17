@@ -153,6 +153,12 @@ Para prender as primeiras formas cruzadas criadas depois da base extrudo com a e
 
 ![](attachments/Captura%20de%20ecrã%202026-06-10%20185235.png)
 
+Caso fosse refazer este modelo para não estar tão solto, iria só mudar os parâmetros das folgas desta forma para ficar mais justo e adicionalmente, prender as trancas dos círculos à base.
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20163455.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-17%20163359.png)
+
 Embed do Fusion (visualização do modelo paramétrico).
 https://a360.co/4vnxydE
 
@@ -239,26 +245,140 @@ Para poder ficar fiel ao projeto em todas as peças tive que colar 3 pedaços de
 
 ![](attachments/20260610_115353.jpg)
 
+##### MODELO EM CARTÃO
+
+![](attachments/20260610_115222-removebg-preview.png)
+
+Esta maquete foi a primeira que fiz depois de ter desenvolvido esta ideia. Inicialmente não conseguia avançar com por já ter desenvolvido tantas ideias antes e por este motivo tentei fazer uma maquete extremamente simples com cartão e fita-cola. Tentei iniciar o projeto e avançar com o meu conceito e aprendi que foi extremamente essencial fazê-la para começar a perceber os mecanismos do objeto e a sua função como brinquedo.
+
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+##### PRANCHA-RESUMO FINAL
 
+Esta prancha-resumo surgiu a partir dos renders que tinha feito. Achei que quanto mais simples e similar a um manual de instruções fosse, melhor era. Sendo que este é um brinquedo que necessita de espaço e compreensão de como se usa de forma intuitiva. Adicionalmente criei a ilustração das crianças a brincarem com o brinquedo com a esfera para ilustrar a interação humana num ambiente e uma distância amigável entre as pessoas quando o jogam. 
 
+![](attachments/prancharesumoatualizada.png)
+
+![](attachments/Pasted%20image%2020260617214843.png)
+
+##### ESBOÇOS DETALHADOS DA HARMONIA EM MOVIMENTO
+
+O conceito deste jogo começou a florescer depois de realizar esboços sobre a ideia e possíveis mecanismos.
+
+![](attachments/sketchhm.jpg)
+
+Nestes Esboços Rápidos estava a tentar compreender a funcionalidade e o mecanismo das alavancas, uma coisa que não me é familiar em modelos de madeira. 
+Com o feedback e as demonstrações do professor tentei esboçar as possibilidades do objeto a nível conceptual como a nível mecânico. Por exemplo, em vez das alavancas estarem presas à base ficam presas a um paralelepípedo vertical que depois tem suporte na base. Outra sugestão foi em vez de ser um carrossel impulsionar a brincadeira com ideia que tinha que não conseguia desenvolver, tornar a brincadeira das arcades num brinquedo de madeira com equilíbrio, em vez de um movimento circular que sobe para cima e para baixo que é só causado por uma pessoa.
+
+![](attachments/sketchhmdetalhe.jpg)
+
+Estes esboços em Detalhe foram os primeiros da ideia da Harmonia em Movimento enquanto ainda não tinha a certeza de que conceito iria aprofundar. Estes esboços estão associados ao primeiro modelo 3D que fiz e na área superior do esboço é possível ver eu a explorar as possibilidades de como poderia ser o objeto. 
+
+Pensei em como as trancas iriam possibilitar o movimento da alavanca preso à base circular se rodasse 360º graus e o objeto não se desmontasse, possivelmente com um suporte que o limitaria, para não virar uma espécie de "oreo" que se desfazem as peças umas das outras. Nestes esboços averiguei também em como as peças iriam subir em forma de escada se estivessem dentro ou debaixo da base superior, sem que a base do objeto mexesse. Tinha em mente a altura e diversidade das trancas, um suporte vertical no meio da peça que prendia as duas mas que não permitia que se abrisse e um sistema mecânico como os carrosséis dentro do próprio objeto.
+
+##### IDEIA: FICA EM PÉ
+
+Esta esboço tinha haver com uma brincadeira que cria desenvolver que tinha em conta o jogo dos ferros do cavalo de acertar num paralelepípedo, porém o jogo ficava ao contrário. O intuito do jogo era atirar esta espécie de tubo para dentro das cavidades das formas que abanam numa superfície plana como o chão sem que elas caíssem, quase como no bowling. Estas peças teriam este formato para conseguir criar um bom equilíbrio mas se a forma acertasse com força de frente as formas iriam cair e a pessoa perdia o jogo. 
+Pensei nas dificuldades como tentar acertar em buracos mais pequenos ou menos redondos e a possibilidade de haver várias formas iguais com as mesmas cavidades para ser mais difícil de duplicar pontos. Gostaria de ter desenvolvido esta ideia em detalhe porque acho que iria ser divertida de brincar em qualquer faixa etária.
+
+![](attachments/Pasted%20image%2020260617222202.png)
+
+##### IDEIA 1: CARROSSEL 
+
+Esta foi a ideia do carrossel de madeira que acabei por desenvolver. Inicialmente baseava-se num jogo de controle do movimento, no qual o carrossel é apenas um carrossel. O desafio estaria em tornar-se num brinquedo puramente de madeira e ser funcional sem eletricidade ou materiais extra. 
+
+![](attachments/_MG_5461.jpg)
+
+##### IDEIA 2 e 3
+
+Esta ideia era de carácter decorativo por isso não tinha potencialidade. Com uma forma fina no meio as peças poderia se ir montando uma forma em concreto de frente ou de lado, similar a um ábaco. Não tinha propriamente uma brincadeira mas um carácter de construção visual. Cheguei a desenvolver esboços digitais que eram mais representativos desta ideia mas acabei por perdê-los. Contudo, foi essencial a fase de desenvolvimento desta e das outras ideias.
+
+![](attachments/_MG_5464.jpg)
+
+Tal como o esboço anterior, foca-se no mesmo conceito mas de forma vertical, porém ter a vertente de projeção de sombras a partir da montagem das formas.
+
+![](attachments/_MG_5482.jpg)
+
+##### OUTRAS IDEIAS
+
+Pensei nesta ideia como uma hipótese mas sem muita consideração. Seria como os jogos de mover os círculos dentro de uma substância líquida até acertar no objetivo ( como um tubo ou um paralelepípedo. Novamente, a ideia era transformar este propósito numa construção puramente de madeira. Pensei em peças pequenas que se moviam numa base, porém havia limites como a transparência por não haver vidro e não conseguir traduzir esta brincadeira com a substância líquida para algo que seja divertido com sólidos. Acredito que esta brincadeira teria mais potencial se fosse criada numa máquina 3D ou em resina pelas suas propriedades. 
+
+![](attachments/_MG_5463.jpg)
+
+Esta ideia foca-se no controlo dos membros do brinquedo, ou seja, a ideia ser um brinquedo móvel com articulações que desse para desmontar e criar novas ideias de animais, objetos, etc.
+
+![](attachments/_MG_5479.jpg)
+
+Tal como os outros esboços, este foca-se novamente na criação de uma imagem em concreto através das formas mas desta vez pela sobreposição delas. Por exemplo, criar uma borboleta de madeira com várias camadas nas asas.
+
+![](attachments/_MG_5483.jpg)
+
+Esta ideia associa-se ao tetris mas se fosse só em madeira, no qual a variedade das madeiras iria ter um propósito no jogo: a combinação.
+
+![](attachments/_MG_5485.jpg)
+
+Este esboço foi baseado em jogos como o micado e outros de equilíbrio mas neste caso em forma de esfera. As peças de madeira juntam-se e criam uma esfera que se desfaz por camadas.
+
+![](attachments/_MG_5487_1.jpg)
+
+##### PRANCHA-RESUMO INICIAL
+
+A minha prancha resumo inicial focava-se num jogo de encaixes infinitos que formavam qualquer tipo de formas e combinações. Esta ideia era interessante mas não tinha um jogo em si e era muito difícil de desenvolver pelas complicações de produção.
+
+![](attachments/PRANCHARESUMO.png)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
+Os aspetos que valorizei do moodboard têm haver com a fluidez das formas e a linguagem gráfica: o meu objeto tem essencialmente curvas e paralelepípedos que se encaixam sem muita complicação. 
+
+Acredito que o moodboard contribuiu sobretudo para as diferenças e aspetos comuns entre os projetos do grupo. O valchromat é também representativo das cores e formas do nosso moodboard. Tentei também me apropriar da simetria e conceitos de alguns destes símbolos como o carrossel, a roda da foturna, o cata-ventos, a estrada e o prato de comida.
+
+A tagline "movimenta a imaginação" suscita a esta composição visual em todos os projetos, sendo que nos focamos na interação física perante a criatividade da criança que é valorizada pela nossa marca perante a tecnologia avassaladora que as consome tão cedo.
+
+![](attachments/Pasted%20image%2020260617224525.png)
+
+Apesar do nosso moodboard antigo estar afastado dos nossos conceitos atuais, a sua simplificação contribuiu para uma exploração mais aberta dos conceitos. Por outro lado, as formas retas e constrangidas que tinhamos anteriormente como base para cada projeto individual criavam restrições criativas e problemas direcionados ao público-alvo. Tendo em conta que as formas são muito perfeitas e retas, não se adaptava à linguagem gráfica e visual que criamos criar como marca. 
+
+![](attachments/Pasted%20image%2020260617224924.png)
 
 
-### 7.2. Objetos de referencia
+### 7.2. Objetos de referência e outros elementos
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+Algumas ideias quando pensei no conceito de jogo divertido que me começaram a surgir à mente quando fiz esboços foram os jogos de Arcade, Tetris e num aspeto matemático o Ábaco de matemática e neste caso também o ábaco infantil simples colorido.
+
+![200](attachments/Pasted%20image%2020260617231031.jpg)
+
+![](attachments/IMG_5557-scaled.jpeg)
+
+![](attachments/abacus-2366784_1280.jpg)
+![](attachments/064293f6-146c-4c77-a8c6-ac725b1943d135411544kitpalhacoeursinho.webp)
 
 
+(Referências das imagens:
+_Block Blast Online_. (2026). Block Blast Online. https://blockblastonline.io/puzzle-blocks-classic
+_Vamosa Rema_. (n.d.). Vamosarema. https://vamosarema.com/
+_Pixabay_. (2016). Pixabay.com. https://pixabay.com/pt/images/search/%C3%A1baco/
+_2 Brinquedos para Bebê Educativo Infantil de Montar e Desmontar_. (2019). Madeiramadeira.com.br. https://www.madeiramadeira.com.br/2-brinquedos-para-bebe-educativo-infantil-de-montar-e-desmontar-762621197.html)
 
-## 9. Outros Elementos
+‌
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+
+Algumas das referências que me afetaram propriamente para o desenvolvimento do projeto foi o V-smile da marca Vtech. Criei este moodboard previamente para perceber o tipo de produtos da marca para além do V-smile. O motivo de ser uma referência é pela forma que a linguagem dos produtos é criada. Existe uma delicadeza nas formas e no direcionamento ao público-alvo através da cor e até dos cantos dos objetos. Apesar de ser relacionado à tecnologia acredito que foi uma ótima referência num sentido de simplicidade e direção.
+
+![](attachments/Pasted%20image%2020260617225514.png)
+
+Link para o site do Vtech: https://www.vtech.com/
+
+Outra referência importante foi o moodboard que fizemos e as ideias discutidas com o meu grupo numa fase muito inicial. Estes brinquedos não eram propriamente uma inspiração direta mas ajudaram a desbloquear a mente para irmos procurar mais referências e temas em comum dentro do nosso moodboard. 
+
+![](attachments/PD_MRR_LAVTJ2.jpg)
+
+Este moodboard que fizemos em grupo para a parte gráfica da marca foi também essencial para compreender a conexão entre os conceitos aplicados nos objetos só pertencendo a uma marca. Neste caso, também o fizemos para compreender o nosso público-alvo e o que seria menos racional e mais criativo de abordar alinhado com o nosso logótipo e os nossos conceitos.
+
+![](attachments/Pasted%20image%2020260617230212.png)
+
+
+Acredito que o complemento entre as duas disciplinas ajustou-se perfeitamente. No sentido em que mesmo numa fase de desenvolvimento atrasada, a construção da marca gráfica impulsionou-me a criar novos conceitos e tentar pensar de outras formas. Por um lado, ajudou me a não estagnar num processo exploratório infinito e restringir as minhas escolhas dentro do meu projeto individual.
+![](attachments/Logo-13.png)
