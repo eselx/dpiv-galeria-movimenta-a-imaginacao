@@ -42,6 +42,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 Materiais: Valchromat (vermelho), Bordo, Faia, Vidoeiro
 Fabricado em máquina de corte CNC
 Software paramétrico utilizado: Fusion 360 
+De acordo com a Diretiva 2009/48/CE o produto é seguro para a faixa etária alvo, elaborado com madeira com garantia de segurança (com menor risco de farpas e resistência a bolores e fungos), ausência de tintas e colas ou outras substâncias químicas possivelmente tóxicas, não contem peças pequenas que apresentem risco de asfixia.
 
 
 - Modelo 3D: https://a360.co/3R9nplS
