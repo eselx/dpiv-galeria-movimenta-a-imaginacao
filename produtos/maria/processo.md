@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_image: ../attachments/Mockup_3.jpg
+hero_title: Processo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -21,8 +21,13 @@ published: true
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![](attachments/TorreL_hero.jpg)
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+>Render final - imitação de fotografia em estúdio
+
+![](attachments/Mockup_3.png)
+![](attachments/Mockup_4.png)
+>Mochups do produto feito no Photoshop 2025
+
+
 
 ## 2. Processo de Prototipagem
 
@@ -51,34 +56,45 @@ https://a360.co/4dMnO5w
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
->maquete
+![](attachments/Maquete_edit.jpeg)
+>Maquete experimental em cartão
 
-![](attachments/placeholder.png)
+Esta maquete permitiu-me ver se a brincadeira era viável e apesar do uso de cartão em camadas, esta ofereceu um baixo-relevo que suportava o movimento de um disco.
 
+![](attachments/Maquete_1_camadas.jpeg)
+![](attachments/Maquete_group.png)
 ## 6. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
 
->versões antigas da torre (no fusion) e fazer prancha
+>versões antigas da torre (no fusion) 
 >esboços das medidas no diário gráfico
 
 ![](attachments/PranchaResumo_TorreLabirinto.png)
-Prancha-resumo final.
+>Prancha-resumo final
+
+![](attachments/PranchaResumo_Antiga.png)
+>Primeira prancha-resumo, de acordo com outro conceito
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/TorreL_insp_moodboard.png)
 
-### 7.2. Objetos de referencia
+### 7.2. Objetos de referência
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
->por aq os brinquedos ainda do grupo antigo q me baseei pois tudo levou a isto
-
 ![](attachments/TorreL_inspiracao.png)
+>Brinquedo de maior inspiração
+
+![697](attachments/Moodboard_TorreL.png)
+>Moodboard de brinquedos de inspiração para o brinquedo atual
+
+![](attachments/Moodboard_brinquedoantigo.png)
+>Moodboard de brinquedos de inspiração para uma versão mais antiga
 
 ## 9. Outros Elementos
 

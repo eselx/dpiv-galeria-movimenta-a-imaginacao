@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/Embalagem_parte_grafico.png
 hero_title: "Nestor: Movimenta a Imaginação"
-hero_subtitle: "nestor: movimenta a imaginação"
+hero_subtitle: Marisa, Maria, Rafael, Rui
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -17,9 +17,7 @@ group_number: ""
 
 # Nestor: Movimenta a Imaginação
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
-> Movimenta a imaginação: para todas as crianças que gostam de brincar (substituir por uma melhor)
-> 
+> Movimenta a imaginação pensa na brincadeira como um espaço em que o movimento, criatividade e imaginação surgem como ponto de encontro para a interação humana. Os nossos brinquedos são a representação direta do que a nossa marca representa e pensam sobretudo para quem a nossa marca é, as mentes cheias de imaginação.
 
 ## Elementos do Grupo
 
@@ -35,7 +33,6 @@ group_number: ""
 ## Contexto de Design
 
 ![](attachments/Embalagem_parte_grafico.png)
-
 ![](attachments/montagemcombackground.png)
 
 > Os quatro brinquedos desenhados pelo grupo têm como ponto comum as cores e os materiais. Apesar de terem sido desenhados para vários tipos de brincadeiras diferentes, a coerência visual proveniente deste aspeto identifica-os como objetos da mesma marca ou coleção
@@ -70,7 +67,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Rita Bailão</p>
   </a>
   <a class="gallery-card" href="produtos/maria/">
-    <img src="produtos/maria/attachments/hero.jpg" alt="" />
+    <img src="produtos/maria/attachments/Mockup_3.png" alt="" />
     <h3>Torre Labirinto</h3>
     <p>Maria Carrilho</p>
   </a>

@@ -16,13 +16,6 @@ student_number: "2024311"
 
 # Torre Labirinto
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-
-
 > Um puzzle espera por ti lá dentro! Navega o disco entre as camadas para chegares ao fim!
 
 ## Conceito
@@ -45,7 +38,7 @@ O conceito da marca Nestor, desenvolvida paralelemente no módulo de Design de C
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Materiais: Valchromat (vermelho), Bordo, Faia, Vidoeiro
+- Materiais: Valchromat (vermelho), Faia, Vidoeiro
 - Fabricado em máquina de corte CNC
 - Software paramétrico utilizado: Fusion 360 
 
@@ -64,6 +57,10 @@ Para começar, insere-se o disco na primeira camada e para o mover entre o labir
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+
+###### Mockups:
+
+###### Renders finais:
 
 ![](attachments/TorreL_hero.jpg)
 ![](attachments/TorreL_sem_topo.png)
