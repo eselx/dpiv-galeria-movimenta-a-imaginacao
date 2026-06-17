@@ -51,6 +51,8 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 #### Materiais:
 
+A escolha dos materiais foi um dos elementos comuns entre os nossos brinquedos, por uma questão de função e qualidade escolhemos Faia, Bordo e Vidoeiro como madeiras que caso houvessem disponíveis a partir de restos seriam usadas. O Valchromat vermelho faz parte da mesma lógica exceto que destaca e suscita à nossa marca gráfica. Esta cor pertence tanto ao nosso logótipo como à nossa estilização da marca em diferentes layouts. 
+
 - Valchromat vermelho (e44e58) 12 mm. 
   Referência da Madeira: https://www.investwood.pt/valchromat/
 
@@ -63,25 +65,31 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 - Referência da Madeira (Bordo): https://www.loveskirting.co.uk/beading-mouldings-c16/by-product-c230/planed-timber-c424/solid-maple-par-timber-100mm-wide-p1646
 
 #### Fabricação:
- - Máquina CNC com modelagem 3D no software Fusion 360 
+  
+  Este brinquedo foi cortado na máquina CNC Ouplan STEEL com base na modelagem 3D realizada no software Fusion 360. Para ser cortado foi necessário um profissional operar a máquina e escolher as definições como o tamanho da fresa (6mm) e outros aspetos.
  
 ## Função
 
-###### Como se brinca
+###### Como se brinca:
 Com uma bola como objeto extra no topo da base superior, cada pessoa empurra uma alavanca. Estas alavancas controlam o equilíbrio desta base, com o intuito de não deixar a bola cair como cooperação. Quanto mais se inclina e movimenta esta base mais difícil fica o jogo, a bola vai ter mais velocidade e possibilidades de cair na direção de alguém.
 
-###### Idade-alvo
+###### Idade-alvo:
 Direcionada à faixa etária dos 7 aos 9 anos. Porém é um jogo clássico, a faixa etária serve para criar um espaçamento entre a compreensão do jogo e até ao ponto se torna apelativo para as outras idades.
 
-###### Montagem
+###### Montagem:
 Para montar este produto é necessário ler um pequeno folheto de instruções com a informação das peças e como se monta (acompanhamento de um adulto). Primeiramente a base principal tem que ter as Peças 2 (2x) que se encaixam uma na outra e depois com uma ferramenta como um martelo assegurar que fica preso. De seguida, as Peças 1 (4x) encaixam-se nos buracos da base, que depois se vão interligar às Tampas (4x) através dos Conectores (4x). Por fim assenta-se a segunda Base 2 no topo das peças cruzadas no centro da base.
 
 ![](attachments/montagempeças.png)
 
-###### Conformidade com a Diretiva 2009/48/CE
+###### Conformidade com a Diretiva 2009/48/CE:
 
-Cumpre as seguintes regras:
-- 
+O brinquedo cumpre algumas das seguintes regras:
+- É concebido e fabricado de modo a não apresentar qualquer risco mínimo inerente à sua utilização normal
+- Não tem a presença de substâncias cancerígenas, mutagénicas ou tóxicas.
+- Obedece a regras de segurança específicas como a disponibilização de informações claras e acessíveis aos consumidores sobre os riscos residuais e as instruções de uso.
+Tenta garantir um nível elevado de segurança sem colocar risco a saúde ou segurança das crianças, evitando vértices, partes afiadas ou números extremos de dimensões da partes do objeto, para evitar ser ingerido ou pesado.
+
+
 ## Apresentação
 
 ![](attachments/modelo3d2.png)
