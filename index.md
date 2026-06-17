@@ -3,7 +3,7 @@ title: "Nestor: Movimenta a Imaginação"
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/montagemtransparentfile.png
+hero_image: attachments/hero.png
 hero_title: "Nestor: Movimenta a Imaginação"
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh

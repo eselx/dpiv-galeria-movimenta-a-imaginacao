@@ -20,14 +20,20 @@ student_number: "2024338"
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->![](attachments/Captura%20de%20ecrã%202026-06-17%20043354.png)
+-->
+![](attachments/montagemfotografica.png)
 
 > Brinquedo de equilíbrio que cria movimento entre as peças e os utilizadores.
 
 ## Conceito
 
+ideia central do produto. O que é, para quem, porquê
 
-Ideia central do produto. O que é, para quem, porquê.
+"Harmonia em Movimento é um brinquedo de equilíbrio que consiste em criar movimento entre as peças e os utilizadores. Influencia o desenvolvimento da motricidade fina da criança através da brincadeira conjunta. A bola como objeto extra surge como mediador da brincadeira de equilíbrio quando em cima da base."
+
+ Este produto é direcionado para a crianças da faixa etária dos 7 aos 9 anos. Combate o surgimento dos ecrãs na idade infantil e incentiva a família e amizades em partilharem um jogo de interação em comum. 
+
+
 
 ![](attachments/prancharesumoatualizada.png)
 
