@@ -20,19 +20,19 @@ student_number: "2024338"
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+-->![](attachments/Captura%20de%20ecrã%202026-06-17%20043354.png)
 
 > Brinquedo de equilíbrio que cria movimento entre as peças e os utilizadores.
 
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
+
+
+ Usei como base para construir este projeto um moodboard criado em conjunto com o meu grupo de Produto. 
+ 
 Ideia central do produto. O que é, para quem, porquê.
 
-![](attachments/placeholder.png)
+![](attachments/Captura%20de%20ecrã%202026-06-10%20162550.png)
 
 ## Enquadramento
 

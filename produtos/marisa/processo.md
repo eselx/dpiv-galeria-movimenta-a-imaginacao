@@ -20,8 +20,11 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/20260610_120811.jpg)
+
+![](attachments/20260610_120912.jpg)
+
+![](attachments/20260610_120921.jpg)
 
 ## 2. Processo de Prototipagem
 
