@@ -5,13 +5,13 @@ tags: galeria
 status: not-started
 hero_image: attachments/hero.png
 hero_title: "Nestor: Movimenta a Imaginação"
-hero_subtitle: Design de Produto IV · 2025-26
+hero_subtitle: "nestor: movimenta a imaginação"
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: movimenta a Imaginação
+group_name: movimenta a imaginação
 group_number: ""
 ---
 
