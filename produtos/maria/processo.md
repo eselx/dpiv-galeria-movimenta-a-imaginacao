@@ -14,7 +14,7 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> Organizado do **mais recente** para o **mais antigo**. Uma seleção clara, aprazível e detalhada a evolução do produto e das ideias.
 
 ## 1. Protótipo(s)
 
@@ -25,24 +25,23 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![](attachments/Mockup_3.png)
 ![](attachments/Mockup_4.png)
->Mochups do produto feito no Photoshop 2025
+>Mochups do produto feito no Photoshop 2025 por Maria Carrilho
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
-
->(por tbm o arranje do fusion)
-
-![](attachments/placeholder.png)
-
+![](attachments/TorreL_arrange.png)
+>Preparação para o corte CNC - Arranje no Fusion das peças dividas em duas placas
 
 ## 3. Protótipos Exploratórios
 
 Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
->esboços em fusion + maquete
 
-![](attachments/placeholder.png)
+![](attachments/Brinquedo_novo_3.png)
+>As camadas são sobrepostas uma pela outra.
+
+![](attachments/Brinquedo_novo_2.png)
+>Encaixes presentes no brinquedo
 
 ## 4. Modelos 3D
 
@@ -63,13 +62,13 @@ Esta maquete permitiu-me ver se a brincadeira era viável e apesar do uso de car
 ![](attachments/Maquete_group.png)
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, pranchas A3 de síntese, exploração de variantes.
-
 ![](attachments/PranchaResumo_TorreLabirinto.png)
 >Prancha-resumo final
 
+![](attachments/Brinquedo_novo_1.png)
+>Versão final no Fusion
 
-
+![](attachments/Brinquedo_antigo_2.png)
 >Esboço no Fusion de uma versão antiga
 >Esta versão usava muitas peças e com o auxilio do professor, foi possível reduzi-las.
 

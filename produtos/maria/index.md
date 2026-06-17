@@ -42,8 +42,9 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 - Fabricado em máquina de corte CNC
 - Software paramétrico utilizado: Fusion 360 
 
-- Modelo 3D: https://a360.co/4dMnO5w 
-- Ficheiros: `attachments/`
+- Modelo 3D: https://a360.co/4dMnO5w
+- Ficheiros:
+![](attachments/NestorBrinquedo_TorreLabirinto_MariaCarrilho%201.f3d)
 
 ## Função
 
@@ -57,6 +58,7 @@ Para começar, insere-se o disco na primeira camada e para o mover entre o labir
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+
 ##### Mockups:
 
 ![](attachments/Mockup_2.png)
