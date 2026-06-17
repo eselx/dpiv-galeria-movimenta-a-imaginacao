@@ -3,7 +3,7 @@ title: "Nestor: Movimenta a Imaginação"
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.png
+hero_image: attachments/Embalagem_parte_grafico.png
 hero_title: "Nestor: Movimenta a Imaginação"
 hero_subtitle: "nestor: movimenta a imaginação"
 hero_height: 100vh
@@ -34,10 +34,11 @@ group_number: ""
 
 ## Contexto de Design
 
+![](attachments/Embalagem_parte_grafico.png)
+
 ![](attachments/montagemcombackground.png)
 
 > Os quatro brinquedos desenhados pelo grupo têm como ponto comum as cores e os materiais. Apesar de terem sido desenhados para vários tipos de brincadeiras diferentes, a coerência visual proveniente deste aspeto identifica-os como objetos da mesma marca ou coleção
-
 
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
@@ -48,22 +49,18 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
 ## Galeria de Produtos
 
-<!-- Cada thumbnail liga à página individual de cada produto.
-     Cada produto vive em produtos/<numero>-<nome>/index.md
-     e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
 
-<!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/marisa/">
-    <img src="produtos/marisa/attachments/hero.jpg" alt="" />
+    <img src="produtos/marisa/attachments/hero.png" alt="" />
     <h3>Harmonia em Movimento</h3>
     <p>Marisa Filipe</p>
   </a>
   <a class="gallery-card" href="produtos/rafael/">
-    <img src="produtos/rafael/attachments/hero.jpg" alt="" />
+    <img src="produtos/rafael/attachments/hero.png" alt="" />
     <h3>Avião</h3>
     <p>Rafael Marques</p>
   </a>

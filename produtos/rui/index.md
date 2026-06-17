@@ -35,7 +35,7 @@ A casa de bonecas foi concebida utilizando os mesmos materiais que os objetos de
 
 ## Tecnologia
 
-Em concordância com os restantes projetos do grupo foram selecionados três tipos de madeira: faia e vidoeiro, que seriam utilizados de acordo com a sua disponibilidade no local de produção. No entanto faia foi a madeira de referência escolhida para a elaboração deste objeto por ser comum em mobiliário de produção em massa. A medida de referência para a espessura da madeira foi menor espessura de madeira de faia encontrada online, 23 mm.
+Em concordância com os restantes projetos do grupo foram selecionados três tipos de madeira: faia, bordo e vidoeiro, que seriam utilizados de acordo com a sua disponibilidade no local de produção. No entanto faia foi a madeira de referência escolhida para a elaboração deste objeto por ser comum em mobiliário de produção em massa. A medida de referência para a espessura da madeira foi menor espessura de madeira de faia encontrada online, 23 mm.
 
 Todas estas espécies de madeira são seguras para brinquedos. A madeira de faia é fácil de limpar e não se quebra facilmente. Segundo woodlandtrust.org esta madeira muda de cor com o tempo, mas não quebra em lascas que possam magoar uma criança que brinque ccom um brinquedo feito deste material.
 
@@ -54,7 +54,6 @@ A montagem da casa de bonecas seria realizada em casa por um adulto. As várias 
 
 
 ## Apresentação
-
 
 ![](attachments/hero.png)
 ![](attachments/renderside.png)

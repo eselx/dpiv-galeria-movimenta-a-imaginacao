@@ -21,7 +21,7 @@ student_number: "2024295"
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
-![](attachments/hero.jpg)
+![](attachments/montagemfotografica.jpg)
 
 > Avião de madeira para dar asas à imaginação dos mais pequenos.
 
