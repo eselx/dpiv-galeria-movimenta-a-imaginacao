@@ -34,14 +34,13 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ## 3. Protótipos Exploratórios
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-
 ![](attachments/Brinquedo_novo_3.png)
 >As camadas são sobrepostas uma pela outra.
+>Na versão anterior, eram intercaladas a peça giratória e a camada, onde causava problemas de pressão sobre a peça giratória e devido as bordas um mau alcance das mesmas.
 
 ![](attachments/Brinquedo_novo_2.png)
 >Encaixes presentes no brinquedo
+
 
 ## 4. Modelos 3D
 
