@@ -20,11 +20,11 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![](attachments/20260610_120811.jpg)
+![](attachments/maquetecnc1.jpg)
 
-![](attachments/20260610_120912.jpg)
+![](attachments/maquetecnc2.jpg)
 
-![](attachments/20260610_120921.jpg)
+![](attachments/maquetecnc3.jpg)
 
 ## 2. Processo de Prototipagem
 

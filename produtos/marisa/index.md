@@ -27,12 +27,9 @@ student_number: "2024338"
 ## Conceito
 
 
-
- Usei como base para construir este projeto um moodboard criado em conjunto com o meu grupo de Produto. 
- 
 Ideia central do produto. O que é, para quem, porquê.
 
-![](attachments/Captura%20de%20ecrã%202026-06-10%20162550.png)
+![](attachments/prancharesumoatualizada.png)
 
 ## Enquadramento
 

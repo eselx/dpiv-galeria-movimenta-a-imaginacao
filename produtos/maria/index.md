@@ -22,10 +22,8 @@ student_number: "2024311"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Um puzzle espera por ti lá dentro! Navega o disco entre as camadas para chegares ao fim!
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> Um puzzle espera por ti lá dentro! Navega o disco entre as camadas para chegares ao fim!
 
 ## Conceito
 

@@ -34,7 +34,7 @@ group_number: ""
 
 ## Contexto de Design
 
-![](attachments/montagemtransparentfile.png)
+![](attachments/montagemcombackground.png)
 
 > Os quatro brinquedos desenhados pelo grupo têm como ponto comum as cores e os materiais. Apesar de terem sido desenhados para vários tipos de brincadeiras diferentes, a coerência visual proveniente deste aspeto identifica-os como objetos da mesma marca ou coleção
 
@@ -68,7 +68,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Rafael Marques</p>
   </a>
   <a class="gallery-card" href="produtos/rui/">
-    <img src="produtos/rui/attachments/RenderFrontalFinal.png" alt="" />
+    <img src="produtos/rui/attachments/hero.png" alt="" />
     <h3>Moinho de Água: Casa de Bonecas</h3>
     <p>Rita Bailão</p>
   </a>

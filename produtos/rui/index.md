@@ -56,7 +56,7 @@ A montagem da casa de bonecas seria realizada em casa por um adulto. As várias 
 ## Apresentação
 
 
-![](attachments/RenderFrontalFinal.png)
+![](attachments/hero.png)
 ![](attachments/renderside.png)
 ![](attachments/renderbrincarcriança.png)
 ![](attachments/rendertrás.png)
