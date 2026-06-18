@@ -11,7 +11,7 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: movimenta a imaginação
+group_name: Movimenta a Imaginação
 group_number: ""
 ---
 

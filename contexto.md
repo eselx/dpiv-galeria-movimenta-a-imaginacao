@@ -33,20 +33,22 @@ As a response to the challenge, four different toys were created: a balance game
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
-
-![Objeto 1](attachments/placeholder.png)
+Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto contem as informações de cada imagem, origem, motivo da escolha.
 
 ![](attachments/2.jpg)
+- **Objeto 1** — Loch Tummel Hotel, Tummel Bridge, Escócia. / Desconhecido / Um moinho de água real com uma face frontal apelativa
 
 ![](attachments/7.png)
+-  **Objeto 2** — VectorStock / Alexander Pokusay / Edifício mais estreito com uma janela pequena. 
+
+Os objetos 1 e 2 foram combinados para o desenho da casa de bonecas.
+
+
 ![](attachments/411c0e4d93a4ee99e6b26bc804f1d942.jpg)
+- Objeto 3 - Instructables / Jolien Brebels / Um avião de madeira com fácil desconstrução da forma.
 
-
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 1** — Loch Tummel Hotel, Tummel Bridge, Escócia./Desconhecido/Um moinho de água real com uma face frontal apelativa
--  **Objeto 2** — VectorStock/Alexander Pokusay/Edifício mais estreito com uma janela pequena. Os objetos 1 e 2 foram combinados para o desenho da casa de bonecas.
-- Objeto 3 - Instructables/ Jolien Brebels/ Um avião de madeira com fácil desconstrução da forma.
+![](attachments/TorreL_inspiracao_objeto.png)
+- Objeto 4 - Pinterest / publicado por Aleksandr, autor desconhecido / Brinquedo puzzle com peças giratórias que guiam um berlinde por um labirinto.
 
 ### 2.2. Moodboard
 
